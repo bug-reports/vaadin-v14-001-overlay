@@ -14,7 +14,7 @@
 
 Start the main method from the Class **demo.StartupJava**
 
-![_data/vaadin-v14-001-overlay.gif](_data/vaadin-v14-001--overlay.gif)
+![_data/vaadin-v14-001-overlay.gif](_data/vaadin-v14-001-overlay.gif)
 
 
 Happy Coding.
