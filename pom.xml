@@ -97,7 +97,7 @@
     <frontend-maven-plugin.nodeVersion>v10.16.0</frontend-maven-plugin.nodeVersion>
     <frontend-maven-plugin.npmVersion>6.9.0</frontend-maven-plugin.npmVersion>
 
-    <undertow.version>2.0.21.Final</undertow.version>
+    <undertow.version>2.0.27.Final</undertow.version>
   </properties>
 
   <repositories>
